@@ -53,13 +53,8 @@ Highlights sales contributions from different outlet types.
 
 ## 🖼️ Dashboard Preview
 
-Add your dashboard screenshot to the repository, preferably inside an `images` folder, using the filename `blinkit-dashboard.png`.
+![Blinkit Sales Dashboard](Blinkit-dashboard.png)
 
-Then include this Markdown:
-
-```markdown
-![Blinkit Sales Dashboard]([Blinkit-dashboard.png](https://github.com/Rajanlabs/Blinkit-Sales-Dashboard/blob/main/Blinkit-dashboard.png))
-```
 
 ## 💡 Key Learnings
 
