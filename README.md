@@ -58,7 +58,7 @@ Add your dashboard screenshot to the repository, preferably inside an `images` f
 Then include this Markdown:
 
 ```markdown
-![Blinkit Grocery Sales Dashboard](images/blinkit-dashboard.png)
+![Blinkit Grocery Sales Dashboard](Blinkit-dashboard.png)
 ```
 
 ## 💡 Key Learnings
